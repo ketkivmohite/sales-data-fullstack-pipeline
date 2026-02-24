@@ -46,8 +46,7 @@ ORDER BY Profit_Margin DESC;
 
 
 ## Business Intelligence Layer (Power BI)
-
-Connected Power BI directly to the MySQL database.
+Connected Power BI directly to MySQL using a live database connection to enable real-time analytics.
 
 Built:
 
